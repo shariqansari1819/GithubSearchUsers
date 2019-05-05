@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubSearchUsers</string>
+
+    <!--Search activity strings-->
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name&#8230;</string>
+    <string name="toolbar_title">Github Users</string>
+    <string name="no_user_found">Sorry, No user found!</string>
+
+    <!--User detail activity strings-->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="user_detail">User Detail</string>
+
+    <!--Follower activity strings-->
+    <string name="no_follower_found">Sorry, No follower found!</string>
+
+</resources>
